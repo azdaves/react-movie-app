@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 // input boolean liked
 // output raise onclick event
